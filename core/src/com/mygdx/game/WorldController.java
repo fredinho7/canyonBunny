@@ -125,7 +125,7 @@ public class WorldController extends InputAdapter {
             moveCamera(0, 0);
         }
         if(Gdx.input.isKeyPressed(Input.Keys.V)) {
-            rotateCamera(15);
+            rotateCamera(11);
 
         }
 
